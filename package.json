@@ -1,7 +1,7 @@
 {
-  "name": "fastclick",
-  "version": "1.0.6",
-  "description": "Polyfill to remove click delays on browsers with touch UIs.",
+  "name": "fastclick-likemindnetworks",
+  "version": "1.0.7",
+  "description": "Forked from https://github.com/ftlabs/fastclick",
   "maintainers": [
     {
       "name": "Matthew Caruana Galizia",
